@@ -1,5 +1,5 @@
 {
-  "name": "@zillion/react-components",
+  "name": "@zillionp/react-components",
   "version": "0.1.0",
   "description": "Reusuable react components for various projects",
   "main": "./lib/cjs/index.js",
