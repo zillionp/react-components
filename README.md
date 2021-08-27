@@ -1,2 +1,2 @@
-# znp-react-components
-Reusuable react components for various projects
+# react-components
+Reusuable react components
