@@ -1,6 +1,6 @@
 {
   "name": "@zillionp/react-components",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Reusuable react components for various projects",
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",
@@ -12,9 +12,9 @@
     "build:cjs": "tsc --module commonjs --outDir lib/cjs",
     "prepublish": "npm run build"
   },
-  "files": [
-    "./lib"
-  ],
+  "directories": {
+    "lib": "./lib"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zillionp/znp-react-components.git"
