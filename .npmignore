@@ -1,0 +1,8 @@
+node_modules
+.vscode
+.idea
+.DS_Store
+test
+src
+explorer
+scenarios

@@ -2,7 +2,7 @@
   "compilerOptions": {
     "experimentalDecorators": true,
     "baseUrl": ".",
-    "outDir": "lib/esm",
+    "outDir": "./lib",
     "module": "esnext",
     "target": "es2017",
     "lib": [
@@ -37,7 +37,7 @@
     ]
   },
   "include": [
-    "./src/**/*"
+    "src/**/*"
   ],
   "exclude": [
     "node_modules",
